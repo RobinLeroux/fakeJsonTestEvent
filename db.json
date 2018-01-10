@@ -95,8 +95,8 @@
 			"promotion": null,
 			"address": "Bunker",
 			"date": {
-				"openDate": "12/01/2018 20:00",
-				"closeDate": "13/01/2018 2:00"
+				"openDate": "11/01/2018 20:00",
+				"closeDate": "12/01/2018 2:00"
 			},
 			"organizer": {
 				"id": 3,
@@ -166,8 +166,8 @@
 			"promotion": null,
 			"address": "Forem et parking inférieur éco",
 			"date": {
-				"openDate": "11/01/2018 19:00",
-				"closeDate": "12/01/2018 3:00"
+				"openDate": "10/01/2018 19:00",
+				"closeDate": "11/01/2018 3:00"
 			},
 			"organizer": {
 				"id": 6,
@@ -241,8 +241,8 @@
 			"promotion": null,
 			"address": "Cercle info",
 			"date": {
-				"openDate": "12/01/2018 20:00",
-				"closeDate": "13/01/2018 0:00"
+				"openDate": "11/01/2018 20:00",
+				"closeDate": "12/01/2018 0:00"
 			},
 			"organizer": {
 				"id": 2,
@@ -259,14 +259,27 @@
 					"events": [
 						{
 							"id": 1,
-							"name": "Nom de l'event"
+							"name": "Soirée déguisée"
 						},
 						{
 							"id": 3,
 							"name": "Bal des bières"
 						}
 					]
-				}
+				},
+				{
+					"date": "11/01/2018",
+					"events": [
+						{
+							"id": 2,
+							"name": "Bunker chigé"
+						},
+						{
+							"id": 4,
+							"name": "Boursière"
+						}
+					]
+				},
 			]
 		}
 	],
