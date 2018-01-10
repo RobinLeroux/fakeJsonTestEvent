@@ -248,6 +248,70 @@
 				"id": 2,
 				"name": "Cercle info"
 			}
+		},
+		{
+			"id": 4,
+			"name": "Soirée cool",
+			"description": "Forcément, vu le nom, ce sera cool",
+			"menu": [
+				{
+					"name": "Bières",
+					"drinks": [
+						{
+							"name": "Jupiler",
+							"price": 1.0
+						},
+						{
+							"name": "Cuvées des Trolls",
+							"price": 2.0
+						},
+						{
+							"name": "Rochefort 8",
+							"price": 2.0
+						}
+					]
+				},
+				{
+					"name": "Soft",
+					"drinks": [
+						{
+							"name": "Coca",
+							"price": 1.0
+						},
+						{
+							"name": "Eau",
+							"price": 0.0
+						},
+						{
+							"name": "Fanta",
+							"price": 4.0
+						}
+					]
+				},
+				{
+					"name": "Nourriture",
+					"drinks": [
+						{
+							"name": "Aiki",
+							"price": 1.5
+						},
+						{
+							"name": "Pizza",
+							"price": 3.0
+						}
+					]
+				}
+			],
+			"promotion": null,
+			"address": "Quadri",
+			"date": {
+				"openDate": "11/01/2018 22:00",
+				"closeDate": "12/01/2018 4:00"
+			},
+			"organizer": {
+				"id": 4,
+				"name": "Le Laboratoire"
+			}
 		}
 	],
 	"eventsWeekDifference": [
