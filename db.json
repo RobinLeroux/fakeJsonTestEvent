@@ -250,7 +250,7 @@
 			}
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"name": "Soirée cool",
 			"description": "Forcément, vu le nom, ce sera cool",
 			"menu": [
@@ -341,6 +341,10 @@
 						{
 							"id": 4,
 							"name": "Boursière"
+						},
+						{
+							"id": 5,
+							"name": "Soirée cool"
 						}
 					]
 				}
