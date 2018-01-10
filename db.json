@@ -250,17 +250,20 @@
 			}
 		}
 	],
-	"eventsWeekDifference": [
-		{
-			"date": "23/10/2017",
-			"events": [
-				{
-					"id": 1,
-					"name": "Nom de l'event"
-				}
-			]
-		}
-	],
+	"eventsWeekDifference": {
+			"id": 0,
+			"EventCalendar": [
+			{
+				"date": "23/10/2017",
+				"events": [
+					{
+						"id": 1,
+						"name": "Nom de l'event"
+					}
+				]
+			}
+		],
+	}
 	"eventsOrganizer": [
 		{
 			"date": "23/10/2017",
